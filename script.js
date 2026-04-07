@@ -1,4 +1,3 @@
-// Typing effect
 const text = ["Data Analyst", "Python Developer", "AI Enthusiast"];
 let i = 0;
 let j = 0;
